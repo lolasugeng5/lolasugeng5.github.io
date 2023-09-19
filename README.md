@@ -1,8 +1,8 @@
 
 <h3>video l0139</h3>
 
-<iframe width="100%" height="524" src="https://www.youtube.com/embed/Hh-sblRFpa8" title="Bikini Round Finals | 8/7/2021" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+<iframe width="100%" height="524" src="https://www.youtube.com/embed/LGdm4ZfwQKs" title="FINALS BIKINI ROUND | Winners of Miss Buffalo Chip 2022" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <p>
 
